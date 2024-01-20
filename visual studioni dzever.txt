@@ -11,4 +11,4 @@
 7.bacel gerbernumner@ ____ Fn+F12
 8.Ctrl+k+c _____ comment
 9. Ctrl+k+c ____ uncoment
- 
+ 10. nor ban
